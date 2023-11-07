@@ -4,7 +4,7 @@ Enol Monte-Soto para la asignatura
 al Grado De Ingeniería Informática Del Software
 de la Universidad De Oviedo (Uniovi)
 
-Es incremental, de mamera que cada proyecto
+Es incremental, de manera que cada proyecto
 sprint tiene mas funcionalidad que el anterior.
 Los proyectos gui y console ofrecen interfaces
 de usuario gráficas y por consola respectivamente.
