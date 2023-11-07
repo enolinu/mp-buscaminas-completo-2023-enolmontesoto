@@ -1,0 +1,6 @@
+chechu;10-04-2023;16:37:21;HARD;lose;45
+chicho;10-04-2023;16:37:21;MEDIUM;lose;34
+anton;10-05-2023;16:37:21;EASY;lose;5
+chemari;10-04-2023;16:37:21;EASY;lose;8
+meji;10-05-2023;16:37:21;EASY;lose;8
+enol;11-05-2023;10:04:24;EASY;lose;16

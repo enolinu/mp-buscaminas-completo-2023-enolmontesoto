@@ -1,0 +1,9 @@
+meji;10-05-2023;16:37:21;EASY;lose;8
+jose;10-05-2023;10-05-2023;NOVALE;win;9
+anton;10-05-2023;16:37:21;EASY;lose;5
+chemari;10-04-2023;16:37:21;EASY;lose;8
+esta;linea;no;vale
+chechu;10-04-2023;16:37:21;HARD;lose;45
+chicho;10-04-2023;16:37:21;MEDIUM;lose;34
+leo;10-05-2023;10-05-2023;HARD;novale;9
+ernesto;10-05-2023;10-05-2023;HARD;win;novale
