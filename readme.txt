@@ -1,3 +1,5 @@
+Especificaciones:
+
 Este proyecto ha sido realizado en 2023 por
 Enol Monte-Soto para la asignatura
 "Metodología De La Programación", perteneciente
